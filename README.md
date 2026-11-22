@@ -1,4 +1,9 @@
 # CIE 2 – Activity 2: Binary Classification using Logistic Regression
+**Student Name:** Suyash Mane        
+**Roll Number:** AD3234
+**Class/Division:** AIDS B  
+- **Submission GitHub ID:** https://github.com/complexiota
+- **PROJECT GITHUB LINK:** 
 
 **Institution:** Zeal Education Society's Zeal College of Engineering and Research (ZCOER), Pune
 
@@ -148,8 +153,4 @@ The Google Colab notebook (`Activity2_Logistic_Regression_Student_Performance.ip
 └── README.md                                                 # Project documentation & results
 ```
 
-### Steps to Run in Google Colab
 
-1. Open [Google Colab](https://colab.research.google.com/) and upload `Activity2_Logistic_Regression_Student_Performance.ipynb`.
-2. Open the **Files** sidebar and upload `student_performance.csv`.
-3. Select **Runtime → Run all** to reproduce all tables, metrics, and plots.
