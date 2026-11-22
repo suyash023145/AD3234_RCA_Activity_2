@@ -5,20 +5,6 @@
 - **Submission GitHub ID:** https://github.com/complexiota
 - **PROJECT GITHUB LINK:** 
 
-**Institution:** Zeal Education Society's Zeal College of Engineering and Research (ZCOER), Pune
-
-**Department:** Artificial Intelligence & Data Science (AI & DS)
-
-**Class:** T.Y. B.Tech | **Semester:** V | **Division:** `[Your Division]`
-
-**Roll Number:** `[Your Roll Number]` | **Name:** `[Your Name]`
-
-**Course:** Regression and Classification Algorithms (Unit II – Classification & Logistic Regression)
-
-**Academic Year:** 2026–27
-
-**Submission GitHub ID:** <https://github.com/complexiota>
-
 ---
 
 ## 1. Activity Overview & Problem Statement
